@@ -2,7 +2,7 @@
 
 
 
-##VLSM
+## VLSM
 
 | No  | Nama Subnet            | Network     | Mask            | Prefix | Range Host                 | Broadcast    | Gateway     |
 | --- | ---------------------- | ----------  | --------------  | ------ | -------------------------  | -----------  |  ---------- |
