@@ -1,6 +1,7 @@
 # Tugas-1-Jarkom-Zahra-Hafizhah-5027241121
 
 ## Topologi
+![Topologi Jaringan](images/topologi.png)
 
 
 
