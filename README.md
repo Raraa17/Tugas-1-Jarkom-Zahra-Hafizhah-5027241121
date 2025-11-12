@@ -1,7 +1,7 @@
 # Tugas-1-Jarkom-Zahra-Hafizhah-5027241121
 
 ## Topologi
-![alt text](images/topologi.png)
+![alt text](topologi.png)
 
 
 
